@@ -42,8 +42,16 @@ EduTech Analytics, una plataforma de educación en línea, necesitaba un sistema
 ## 🔍 Fases del Desarrollo
 
 ### 📊 EDA y Visualización Avanzada
-* Validación de integridad de datos, manejo de valores y análisis de correlación numérica mediante matrices.
-* Uso de *pairplots*, *heatmaps* y *violinplots* para identificar patrones visuales entre el rendimiento y las características demográficas/académicas de los alumnos.
+* **Validación e Integridad:** Análisis sistemático de los 500 registros para control de nulos, tipos de datos y detección de patrones univariados y multivariados.
+* **Correlación Numérica:** Generación de una matriz de correlación visualizada mediante un mapa de calor (*heatmap*) para identificar dependencias lineales entre variables clave como horas de estudio, participación y evaluaciones.
+* **Patrones Estudiantiles (Pairplots & Violinplots):** Visualización de la distribución del puntaje de satisfacción segmentado por nivel educacional y clústeres de rendimiento, destacando los factores diferenciales entre los alumnos que completan y los que abandonan el curso.
+
+---
+**Visualizaciones del Análisis Exploratorio:**
+| Matriz de Correlación (Heatmap) | Relaciones Multivariadas (Pairplot) | Distribución de Satisfacción (Violinplot) |
+| :---: | :---: | :---: |
+| ![Heatmap](assets/heatmap_correlacion.png) | ![Pairplot](assets/pairplot_estudiantes.png) | ![Violinplot](assets/violin_satisfaccion.png) |
+---
 
 ### ⚙️ Feature Engineering y Preparación
 * Creación de variables clave: `tasa_completitud` y `estudiante_activo`.
