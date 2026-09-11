@@ -18,7 +18,7 @@ EduTech Analytics, una plataforma de educación en línea, necesitaba un sistema
 *Gráfico de barras personalizado que muestra el promedio de satisfacción por franja horaria, incorporando anotaciones de valores exactos y diseño optimizado.*
 
 <!-- Reemplaza 'satisfaccion_horario.png' por la ruta de tu imagen si está en una carpeta -->
-![Promedio de Satisfacción por Horario](satisfaccion_horario.png)
+![Promedio de Satisfacción por Horario](assets/satisfaccion_horario.png)
 
 ### 2. Desempeño del Modelo de Regresión (Predicciones vs. Realidad)
 *Gráfico de dispersión del modelo Random Forest Regressor para estimar el puntaje de satisfacción del estudiante.*
