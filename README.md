@@ -24,7 +24,7 @@ EduTech Analytics, una plataforma de educación en línea, necesitaba un sistema
 *Gráfico de dispersión del modelo Random Forest Regressor para estimar el puntaje de satisfacción del estudiante.*
 
 <!-- Puedes subir una captura del gráfico de dispersión como 'modelo_regresion.png' -->
-![Predicciones vs Realidad](modelo_regresion.png)
+![Predicciones vs Realidad](assets/modelo_regresion.png)
 
 ---
 
