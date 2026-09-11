@@ -67,7 +67,8 @@ EduTech Analytics, una plataforma de educación en línea, necesitaba un sistema
 ## 📂 Estructura del Repositorio
 ```text
 ├── assets/                                           # Carpeta de imágenes y gráficos
-│   └── satisfaccion_horario.png                      # Gráfico exportado de Matplotlib
+│   ├── satisfaccion_horario.png                      # Gráfico de barras de satisfacción por horario
+│   └── modelo_regresion.png                          # Gráfico de dispersión del modelo de regresión
 ├── 02. Material de apoyo - Estudiantes_edutech.csv   # Dataset base
 ├── Prueba_Fundamentos_de_ciencia_de_datos.ipynb      # Código fuente completo (EDA, ML y Spark)
 └── README.md                                         # Documentación del proyecto
